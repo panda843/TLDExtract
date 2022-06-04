@@ -1,7 +1,3 @@
-# DEPRECATED
-
-Consider to use https://github.com/jeremykendall/php-domain-parser as maintained alternative.
-
 # TLDExtract
 
 `TLDExtract` accurately separates the gTLD or ccTLD (generic or country code top-level domain) from the registered domain and subdomains of a URL, e.g. domain parser. For example, say you want just the 'google' part of 'http://www.google.com'.
